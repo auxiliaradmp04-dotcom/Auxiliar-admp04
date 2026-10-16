@@ -1,0 +1,6 @@
+{
+  "name": "Prospectiva0.5",
+  "description": "Sistema Maestro de Operaciones para Prospectiva: CRM, gestión jurídica, finanzas, agenda inteligente, empleo y dashboard ejecutivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
